@@ -1,0 +1,12 @@
+LTspice 24.0.12 for Windows
+Circuit: * E:\Downloads\AIC-SIMULATIONS\EXP10\R-22R.asc
+Start Time: Wed Sep 24 21:49:37 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node nc_01.  This node is used by v1.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.310 seconds.
+

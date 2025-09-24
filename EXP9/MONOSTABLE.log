@@ -1,0 +1,15 @@
+LTspice 24.0.12 for Windows
+Circuit: * E:\Downloads\AIC-SIMULATIONS\EXP9\MONOSTABLE.asc
+Start Time: Wed Sep 24 21:39:28 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node U1:N011 is floating.
+
+WARNING: Less than two connections to node nc_07.  This node is used by s:u1:1.
+WARNING: Less than two connections to node nc_08.  This node is used by v1.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.059 seconds.
+
